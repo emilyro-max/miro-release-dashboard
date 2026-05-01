@@ -5,7 +5,7 @@ An internal tool for the Customer Education team that automatically scrapes
 and generates an interactive HTML dashboard. Hosted on VibeLab.
 
 **Live dashboard:** https://miro-release-dashboard.vibelab.miro.tools
-**Tracking spreadsheet:** https://docs.google.com/spreadsheets/d/1HbvZWkDBr5DuIqhPzuTnMdP81Xa9huLldALBS9eq1-A/edit
+**Tracking spreadsheet:** [here](https://docs.google.com/spreadsheets/d/1NRvdkKKsFRoZTf1owWGk6fiiXRSvvbafwrmIdSR3d_c/edit?usp=sharing)
 **Full spec:** https://docs.google.com/document/d/1IcKLhiEEw638Js-0tatz8P5vi3LLopeLZ0hUo-Ck-Gk/edit
 
 ---
